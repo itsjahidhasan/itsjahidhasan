@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsjahidhasan
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in new technologies 
+- 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me "itsjahidhasn@outlook.com"
 
 <!---
 itsjahidhasan/itsjahidhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
