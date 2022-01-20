@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies 
 - 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me "itsjahidhasn@outlook.com"
+- 📫 How to reach me "itsjahidhasan@outlook.com"
 
 <!---
 itsjahidhasan/itsjahidhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
